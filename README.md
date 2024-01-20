@@ -40,7 +40,7 @@ TABLA:
 ![]()
 
 ### Instrucciónes de operación
-1. Iniciar simulador dando *click izquierdo* en el botón **Deploy**
+1. Iniciar simulador dando *click izquierdo* en el botón **Deploy** y abriendo la interfaz dando *click* en el boton de exportar.
 ![]()
 2. Visualizar la interfaz.
 3. Colocar la presión deslizando el **Slider**.
