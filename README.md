@@ -7,4 +7,13 @@ Este repositorio muestra como podemos usar el programa NODE-RED, asi como tambie
 
 ## Material Necesario
 Para realizar esta practica necesitas lo siguiente:
--[Node-RED](http://localhost:1880/)
+- Programa [Node-RED](http://localhost:1880/)
+
+## Instrucciones
+### Requisitos previos
+Para poder usar este repositorio necesitas tener instalado correctamente el programa [Node-RED](http://localhost:1880/).
+
+### Instrucciones de preparación de entorno 
+1. Abrir el programa, dirigirse al panel de control del lado derecho superior de la pantalla y dar *click izquierdo* en el icono de las tres rayas horizontales, esto desplegará un menu donde tendrá que seleccionar y dar *click izquierdo* a la opción de ```Manage Palete``` **Manage Palete** como se muestra en la siguente imagen.
+![]()
+
