@@ -41,7 +41,7 @@ TABLA:
 ![](https://github.com/Cris9901/PRACTICA-NODE-RED-DISE-O/blob/main/IMAGEN%209.jpg)
 
 ### Instrucciónes de operación
-1. Iniciar simulador dando *click izquierdo* en el botón **Deploy** y abriendo la interfaz dando *click* en el boton de exportar.
+1. Iniciar el simulador dando *click izquierdo* en el botón **Deploy** y abriendo la interfaz dando *click* en el boton de exportar.
 ![](https://github.com/Cris9901/PRACTICA-NODE-RED-DISE-O/blob/main/IMAGEN%2010.jpg)
 2. Visualizar la interfaz.
 3. Colocar la presión deslizando el **Slider**.
