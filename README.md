@@ -30,6 +30,7 @@ Ya que esté descargado el **Dashboard** aparecerán en la barra de herramientas
 ![](https://github.com/Cris9901/PRACTICA-NODE-RED-DISE-O/blob/main/IMAGEN%205.jpg)
 
 5. Dando *doble click* sobre cada nodo se le cambiaran los valores y propiedades de cada uno de ellos, asi como tambien se les asignara el grupo al que perteneceran dependiendo del caso.
+
 DESLIZADOR:
 ![](https://github.com/Cris9901/PRACTICA-NODE-RED-DISE-O/blob/main/IMAGEN%206.jpg)
 INDICADOR:
